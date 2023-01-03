@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "FirebaseGoogle-FriendlyChat": "friendlychat-b41c2",
+    "DEFAULT": "friendlychat-b41c2"
+  },
+  "targets": {},
+  "etags": {}
+}
